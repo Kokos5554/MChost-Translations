@@ -1,5 +1,5 @@
 const translations = {
-  de = {
+  de: {
     home: {
       title: "Kostenloses Minecraft-Hosting",
       subtitle: "Hosting ist unsere Leidenschaft; glückliche Kunden sind unsere Priorität. Unser Ziel ist es das beste Minecraft-Hosting auf dem Markt, mit den modernsten Technologien anzubieten.", 
@@ -81,8 +81,7 @@ const translations = {
       footer_page_blog: "Blog",
       footer_powered: "Unterstüzt von",
       footer_copyright: "Alle Rechte Vorbehalten."
-    }
-
+    },
     contact: {
       title: "Kontaktiere Uns",
       field_name: "Name",
@@ -115,7 +114,6 @@ const translations = {
       button: "Bestellung anfordern",
       note: '* Diese Felder sind benötigt. Indem du "Absenden" drückst, stimmst du den <a href="%s" target="_blank">Allgemeinen Geschäftsbedingungen</a> zu.'
     },
-
     support: {
       title: "Support",
       subtitle: "Du kannst uns jederzeit erreichen. Hier sind verschiedene Optionen.",
@@ -127,9 +125,7 @@ const translations = {
       email_text: 'Sende eine Email an <a href="mailto:support@mchost.cc">support@mchost.cc</a> und wir werden dir innerhalb von 12 Stunden antworten.',
       form_title: "Kontaktformular",
       form_text: "Oder sende uns einfach eine Nachricht durch das Kontaktformular."
-    }
-
-
+    },
     arc_earn: {
       title: "Credits verdienen",
       subtitle: "Du kannst Credits verdienen, welche für weitere Resourcen verwendet werden können, indem du diese Seite offen lässt. Du bekommst jede Stunde einen Credit.", 
@@ -139,7 +135,7 @@ const translations = {
       get_panel: "Hole deinen Benutzernamen",
       get_cid: "Hole deine Kunden-ID",
       unsure: 'Bist du nicht sicher, wie du die Informationen holst? <a href="$s" target="_blank">Kontaktiere uns.',
-      keep_open: "Lasse diese Seite auf, um Credits zu verdienen.,
+      keep_open: "Lasse diese Seite auf, um Credits zu verdienen.",
       earned: 'Während dieser Sitzung verdient: <b class="credits">0</b> Credits',
       btn_quit: "Beenden",
       btn_refresh: "Neuladen",
@@ -157,9 +153,7 @@ const translations = {
       text: "Unsere Website benutzt Cookies. Schaue unsere Datenschutzerklärung für mehr Informationen an.",
       accept: "Annehmen",
       privacy: "Datenschutzerklärung"
-    }
-
-
+    },
     dashboard: {
       welcome: "Willkommen zu deinem Kundenbereich!",
       btn_panel: "Kontrollzentrum",
