@@ -133,7 +133,7 @@ const translations = {
             placeholder: "Discord ID, Client ID or panel username",
             get_dc: "Get your Discord ID",
             get_panel: "Get your username",
-            get_cid: "Get youd Client ID",
+            get_cid: "Get your Client ID",
             unsure: 'Not sure how to get any of that? <a href="$s" target="_blank">Contact us.',
             keep_open: "Keep this page open to earn credits!",
             earned: 'Earned this session: <b class="credits">0</b> credits',
