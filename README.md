@@ -1,4 +1,4 @@
-# MChost-Translations
+# MChost Translations
 Want to help us translate our website in your own language?
 
 Copy the default template for any file that you speak and create a pull request after you translate it.
