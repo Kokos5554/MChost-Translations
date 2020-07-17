@@ -202,8 +202,7 @@ const translations = {
             add_vid_btn: "Nézés",
             add_short: "Rövid URLs",
             add_short_sub: "Kattintson az alábbi gombra, hogy ingyenes krediteket kapjon",
-            add_short_btn: "Megy",
-            
+            add_short_btn: "Megy"
         }
     }
 }
