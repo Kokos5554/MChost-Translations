@@ -136,7 +136,7 @@ const translations = {
             get_cid: "Získej své ID Klienta",
             unsure: 'Nejsi si jist jak získat Discord ID, ID Klienta nebo uživatelské jméno? <a href="$s" target="_blank">Kontaktuj nás.',
             keep_open: "Nech tuhle stránku otevřenou, aby jsi získával kredity!",
-            earned: 'Získáno touto relací: <b class="credits">0</b> kreditů',
+            earned: 'Získáno touto relací: <b class="credits">%s</b> kreditů',
             btn_quit: "Odejít",
             btn_refresh: "Obnovit",
             btn_blank: "Blank",
